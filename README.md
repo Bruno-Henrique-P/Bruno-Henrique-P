@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-henrique-874b13262/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Henrique-P&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-inky-alpha.vercel.app/api/top-langs/?username=Bruno-Henrique-P&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que tenho conhecimento
 
